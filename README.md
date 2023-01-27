@@ -5,5 +5,7 @@ THIS IS A BANGLADESH NUMBER RANDOM CLONEING MATHOD
 
 ~RUN SCRIPT
 git clone https://github.com/BANTUBD/Random-Clone
+
 cd Random-Clone
+
 python BANTU.py
